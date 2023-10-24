@@ -1,3 +1,4 @@
+![GIF](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 <span style="font-family: Roboto, sans-serif;">
 
 My name is Philipp, and I have a keen interest in programming and web development.
