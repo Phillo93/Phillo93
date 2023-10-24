@@ -1,6 +1,6 @@
 ![GIF](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 <span style="font-family: Sometype Mono
-, sans-serif;">
+,sans-serif;">
 
 Hello and welcome to my Github page :wave:
 
