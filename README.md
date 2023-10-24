@@ -1,10 +1,10 @@
 ![GIF](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
 
-# Hi there 👋
+# Hello and welcome to my Github page 👋
 
-I'm Philipp from NRW, Germany. 
+my name is Philipp, and I have a been interest in programming and web development. 
 
-I have a been interest in web development and im currently enrolled in a bootcamp in this field.
+Currently, I'm enrolled in a bootcamp to learn programming and immerse myself in the world of web development.
 
 My hobbies include:
 
