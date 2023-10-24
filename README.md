@@ -2,7 +2,7 @@
 
 # Hello and welcome to my Github page 👋
 
-my name is Philipp, and I have a been interest in programming and web development. 
+my name is Philipp, and I have a been interested in programming and web development. 
 
 Currently, I'm enrolled in a bootcamp to learn programming and immerse myself in the world of web development.
 
