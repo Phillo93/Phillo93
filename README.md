@@ -8,7 +8,7 @@ I have a been interest in web development and im currently enrolled in a bootcam
 
 My hobbies include:
 
-- Meeting friends.
-- Playing the guitar and making music.
-- movies and photography.
+- Meeting friends. :raised_hands:
+- Playing the guitar and music.:musical_note:
+- movies and photography. :movie_camera:
 
