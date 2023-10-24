@@ -1,8 +1,6 @@
 ![GIF](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
-<span style="font-family: Sometype Mono
-,sans-serif;">
 
-Hello and welcome to my Github page :wave:
+# Hello and welcome to my Github page :wave:
 
 My name is Philipp, and I have a keen interest in programming and web development.
 
@@ -14,4 +12,4 @@ My hobbies include:
 - Playing the guitar and music. 🎵
 - Movies and photography. 🎥
 
-</span>
+
